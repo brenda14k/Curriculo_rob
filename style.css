@@ -56,10 +56,23 @@ h2 {
     font-style: normal;
 }
 
-/*tabela experiencia*/
-/*table {
+.contato-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.contato-item img {
+    margin-right: 10px;
+    width: 30px;
+    height: auto;
+}
+
+
+tabela experiencia
+table {
     border-collapse: collapse;
-    width: 100%;*/
+    width: 100%;
 }
 
 th,
